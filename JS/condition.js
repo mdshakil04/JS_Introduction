@@ -15,3 +15,4 @@ if( price >= 10000 && member == true){
     console.log("Sorry! No discount available")
     console.log("Your final price is: ", price)
 }
+// BMI Calculator will calculate
