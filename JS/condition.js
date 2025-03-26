@@ -20,7 +20,8 @@ Ternary if-else
 
 condition ? do something when true : do something when false
 
-const finalPrice = price >= 10000 && member == true? price - (price * 0.1) : price > 5000? price - (price * 0.05) : price;
+
 
 */
 price > 1000 ? console.log("I can't effort this") : console.log("I will buy this")
+const finalPrice = price >= 10000 && member == true? price - (price * 0.1) : price > 5000? price - (price * 0.05) : price;
