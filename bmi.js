@@ -1,4 +1,4 @@
-const weight =70;
+const weight =60;
 const height = 1.65;
 const bmi = (weight /( height * height)).toFixed(1);
 console.log("Your BMI is "+ bmi)
