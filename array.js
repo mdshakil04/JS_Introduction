@@ -15,12 +15,14 @@ const mixedArray = ["Abdul", 12, true, "Kabul"]
 // 
 // console.log(mixedArray)
  /*
- > To add an element last on an array we use push() Method
+ 
  > To add an element first on an array we use unshift() method
  > We can use shift() to remove first element from an array
+
+ > To add an element last on an array we use push() Method
  > We can use pop() to remove last element from an array
  */
-/*mixedArray.push("Shakil");
+mixedArray.push("Shakil");
 console.log(mixedArray)
 
 mixedArray.unshift("Akhi")
@@ -31,4 +33,4 @@ console.log(mixedArray)
 
 const removeLastElement = mixedArray.pop()
 console.log("This last removed element is " + removeLastElement)
-*/
+
