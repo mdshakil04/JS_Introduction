@@ -1,5 +1,5 @@
 const mixedArray = ["Abdul", 12, true, "Kabul"]
-// console.log(mixedArray)
+console.log(mixedArray)
 // console.log(mixedArray.length)
 // console.log(mixedArray.indexOf("Abdul"))
 // const abdulPosition = mixedArray.indexOf('Abdul')
