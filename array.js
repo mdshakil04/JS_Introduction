@@ -10,3 +10,5 @@ console.log(mixedArray)
 mixedArray[2] = "Shakil"
 console.log(mixedArray)
 // console.log(newUpadhan)
+// Code updated to 18_5_3
+console.log(mixedArray.length)
