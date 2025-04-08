@@ -13,6 +13,13 @@ console.log('Now the number is', number, 'and its out of loop')*/
 
 // }
 for(let num = 1; num <= 10; num +=2){
+
     console.log(num)
+
 }
 
+for(num = 0; num <= 10; num+=2){
+
+    console.log(num)
+
+}
