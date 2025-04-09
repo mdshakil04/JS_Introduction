@@ -20,4 +20,10 @@ for(let i = 52 ; i <= 85; i +=2 ){
     evenSum += i
     // console.log(i)
 }
-console.log(evenSum)
+// console.log(evenSum)
+// Subtask 5
+let multiplicand = 9;
+for(let i = 1 ; i <= 10; i++){
+    let multiplication = multiplicand * i
+    console.log(multiplication)
+}
