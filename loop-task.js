@@ -25,5 +25,9 @@ for(let i = 52 ; i <= 85; i +=2 ){
 let multiplicand = 9;
 for(let i = 1 ; i <= 10; i++){
     let multiplication = multiplicand * i
-    console.log(multiplication)
+    // console.log(multiplication)
+}
+// Subtask 6
+for(let i = 81; i >= 65; i--){
+    console.log(i)
 }
