@@ -29,5 +29,11 @@ for(let i = 1 ; i <= 10; i++){
 }
 // Subtask 6
 for(let i = 81; i >= 65; i--){
-    console.log(i)
+    // console.log(i)
+}
+// Subtask 7
+for(let i = 1;  i <= 100; i++){
+    if(i % 3 == 0){
+        console.log(i);
+    }
 }
