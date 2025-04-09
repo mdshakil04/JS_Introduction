@@ -41,7 +41,7 @@ for(let i = 1;  i <= 100; i++){
 let sum1 = 0;
 for (let i = 1; i <= 20;i++){
     if(i % 3 === 0){
-        console.log(i)
+        // console.log(i)
         sum1 += i;
     }
 }
