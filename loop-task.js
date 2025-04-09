@@ -33,7 +33,15 @@ for(let i = 81; i >= 65; i--){
 }
 // Subtask 7
 for(let i = 1;  i <= 100; i++){
-    if(i % 3 == 0){
-        console.log(i);
+    if(i % 2 === 0 && i % 5 === 0){
+        // console.log(i);
     }
 }
+// Subtask 8
+let sum1 = 0;
+for (let i = 1; i <= 20;i++){
+    if(i % 3 === 0){
+        sum1 += i;
+    }
+}
+console.log(sum1)
