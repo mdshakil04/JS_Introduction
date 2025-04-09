@@ -41,7 +41,8 @@ for(let i = 1;  i <= 100; i++){
 let sum1 = 0;
 for (let i = 1; i <= 20;i++){
     if(i % 3 === 0){
+        console.log(i)
         sum1 += i;
     }
 }
-console.log(sum1)
+console.log('The sum of number which are divisible by three ',sum1)
