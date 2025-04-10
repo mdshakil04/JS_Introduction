@@ -46,3 +46,4 @@ for (let i = 1; i <= 20;i++){
     }
 }
 console.log('The sum of number which are divisible by three ',sum1)
+// String is Immutable
