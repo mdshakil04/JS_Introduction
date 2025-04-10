@@ -45,5 +45,10 @@ for (let i = 1; i <= 20;i++){
         sum1 += i;
     }
 }
-console.log('The sum of number which are divisible by three ',sum1)
+// console.log('The sum of number which are divisible by three ',sum1)
 // String is Immutable
+for(let i = 1 ; i <= 5; i++){
+    // console.log(i)
+}
+const myName = 'SHAKIL'
+console.log(myName.toLowerCase())
