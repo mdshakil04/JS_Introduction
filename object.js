@@ -5,4 +5,4 @@ const developer = {
     sallary: 40000,
     location : "Bhola"
 }
-console.log(developer)
+console.log(developer.name)
