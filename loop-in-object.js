@@ -7,6 +7,13 @@ const mobile = {
 }
 // console.log(mobile)
 for(const key in mobile){
-    console.log(key)
-    console.log(mobile[key])
+    // console.log(key)
+    // console.log(mobile[key])
+}
+const friends = ['Mizan', 'Sobuj', 'Sofiq', 'Zahid', 'Anowar']
+for (const friend of friends){
+    // console.log(friend)s
+}
+for(let i = 0; i < friends.length ; i ++){
+    console.log(friends[i])
 }
