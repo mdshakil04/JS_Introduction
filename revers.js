@@ -13,9 +13,11 @@ for(let i =0; i< numbers.length; i++){
     const num = numbers[i]
     rev_numbers.unshift(num)
 }
-console.log(rev_numbers)
-
+// console.log(rev_numbers)
+const new_rev_numbers = [];
 for(let i = numbers.length-1; i >= 0 ; i--){
     const num = numbers[i]
-    console.log(num)
+    // console.log(num)
+    new_rev_numbers.push(num)
 }
+console.log(new_rev_numbers)
