@@ -13,4 +13,8 @@ for(let i = 0 ; i< numbers.length; i++){
         evenNumber.push(numbers[i])
     }
 }
-console.log(evenNumber)
+// console.log(evenNumber)
+const statement = 'I am a hard working person';
+const reversedStatement = statement.split(' ').reverse().join(' ');
+
+console.log(reversedStatement);
